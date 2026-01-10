@@ -32,5 +32,3 @@ requiring careful joins and preprocessing before modeling.
 
 ## Tools & Technologies
 Python, Pandas, NumPy, scikit-learn, Matplotlib, Kaggle
-This project focused on building a correct and reproducible time-series workflow rather than
-leaderboard optimization.
